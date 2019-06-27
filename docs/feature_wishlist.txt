@@ -1,0 +1,6 @@
+Bash auto completion (https://click.palletsprojects.com/en/7.x/bashcomplete/)
+Logging (https://docs.python-guide.org/writing/logging/)
+Demo functionality. (clever set of echo statements linked to complex kperform tasks inside a @click.option method)
+Auto-magically discovering codec for excel/csv files (use python-magic pypi package) (https://stackoverflow.com/questions/436220/determine-the-encoding-of-text-in-python)
+Make KPL logger record the transaction ID with USER and CID. in future. 
+Debating if kmonitor and klookup should be different containers.

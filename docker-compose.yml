@@ -1,0 +1,6 @@
+version: '0.1'
+services:
+ kkonsole:
+  build: .
+  env_file:
+   - .kkonsole_env.env

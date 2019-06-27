@@ -1,0 +1,5 @@
+﻿value,addr,device_name,device_type,site,interface_name,port,tcp_flags,protocol,asn,lasthop_as_name,nexthop_asn,nexthop_as_name,nexthop,bgp_aspath,bgp_community,mac,country,vlans
+hacked,1.1.1.1,,,,,,,,58879,,,,,,,,,
+alphabets,2.2.0.0/24,,,,,,,,,,,,,_174_,,,,
+alphanumeric21,"3.3.3.3/32,4.4.4.0/24",,,,,,,,,,,,,,,,,
+can allow spaces,1::2/127,,,,,,,,,,,,,,,,,
